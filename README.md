@@ -26,6 +26,7 @@ It compresses whole text using LZMA algorithm, encodes it in Base64 and puts it 
 **Description -**  
 This is a minimal notes app that doesn't use any account rather it can be used in your browser locally. Data is stored in your web browser localStorage. The notes app also has Dark / Light mode
 
+-------------------------------------------------------
 
 **Submissions for [Build An Application With Handshake](https://gitcoin.co/issue/namebasehq/api-documentation/10/100023462)**
 
