@@ -1,7 +1,5 @@
-Bin.Eevr
-[bin.eevr](bin.eevr/)
-
-[Bin.Eevr](bin.eevr/) is a **Secure Database-less Paste-bin service** with **no backend code.** Information is stored in the link only, therefore :
+# [Bin.Eevr](bin.eevr/)  
+**[Bin.Eevr](bin.eevr/) is a Secure Database-less Paste-bin service** with **no backend code.** Information is stored in the link only, therefore :
 
 **1. The data cannot be deleted**  
 **2. The data cannot be censored**  
