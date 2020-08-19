@@ -3,10 +3,10 @@ Bin.Eevr
 
 [Bin.Eevr](bin.eevr/) is a **Secure Database-less Paste-bin service** with **no backend code.** Information is stored in the link only, therefore :
 
-**1. The data cannot be deleted**
-**2. The data cannot be censored**
-**3. The links can be opened in any mirror**
-**4. Hosting server cannot access your data**
+**1. The data cannot be deleted**  
+**2. The data cannot be censored**  
+**3. The links can be opened in any mirror**  
+**4. Hosting server cannot access your data**  
 **5. Your data can be accessed as long as you have the link**
 
 # How it works?
