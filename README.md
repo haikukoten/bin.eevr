@@ -1,5 +1,8 @@
 # [Bin.Eevr](bin.eevr/)  
-**[Bin.Eevr](bin.eevr/) is a Secure Database-less Paste-bin service** with **no backend code.** Information is stored in the link only, therefore :
+**[Bin.Eevr](https://bin.eevr/) is a Secure Database-less Paste-bin service** with **no backend code.** Information is stored in the link only, therefore :
+
+HNS Domain Link - bin.eevr/  
+[Siasky Link](https://siasky.net/MADyNHGTO28eMzBRREkZ81bpAYYunPPGF1dFk7DVpAOEdw/)  
 
 **1. The data cannot be deleted**  
 **2. The data cannot be censored**  
